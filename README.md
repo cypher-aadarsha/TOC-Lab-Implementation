@@ -7,7 +7,6 @@ This repository contains a collection of C++ programs developed for the Theory o
 **Student Details:**
 - **Name:** Aadarsha Jha
 - **Symbol No:** 023BSCIT050
-- **Program:** B.Sc. CSIT 4th Semester
 
 ## Repository Structure
 
@@ -84,3 +83,4 @@ Each program is designed to output:
 
 ## License
 This project is for academic purposes for the Theory of Computation lab.
+
